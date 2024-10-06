@@ -1,0 +1,1 @@
+Construí os dois gráficos  de mapa e o de pizza com a média de lucro por segmento. Além disso fiz uma de barras que mostra a soma de unidades vendidas e soma de vendas por ano, que no caso mostra os anos 2013 e 2014
